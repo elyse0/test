@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="570"
-   height="160"
-   viewBox="0 0 150.8125 42.333335"
+   width="600"
+   height="180"
+   viewBox="0 0 158.75 47.625002"
    version="1.1"
    id="svg1808"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.8101934"
-     inkscape:cx="400.85673"
-     inkscape:cy="32.683328"
+     inkscape:zoom="0.64000001"
+     inkscape:cx="353.42689"
+     inkscape:cy="142.86713"
      inkscape:document-units="mm"
      inkscape:current-layer="g20"
      showgrid="false"
@@ -63,26 +63,26 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-254.66665)">
+     transform="translate(0,-249.37498)">
     <g
        id="g20"
        transform="matrix(0.35277777,0,0,-0.35277777,35.164813,268.89749)">
       <path
-         d="M 30.74465,6.3753743 C 30.377576,10.097955 29.441892,13.826291 27.875701,17.44379 19.761167,36.194881 -2.0186609,44.817562 -20.769752,36.70303 c -9.627463,-4.165952 -16.57599,-11.937879 -19.968923,-21.049996 -8.965285,3.764325 -19.385917,4.019122 -29.013379,-0.146831 -18.752531,-8.1145318 -27.375208,-29.894361 -19.260682,-48.645454 0.896818,-2.071459 1.967815,-4.010483 3.174127,-5.824269 0,0 18.883527,-34.758474 86.09869737,-40.553954 l 0.0244702,-0.05327 c 0.0129604,0.01586 0.0244814,0.03167 0.0374307,0.04751 0.0201542,-0.0015 0.0403084,-0.0044 0.0604616,-0.0057 l -0.0230426,0.0547 C 33.459567,-37.518313 32.552674,-5.2343605 30.744646,6.3753098"
-         style="opacity:1;fill:#ff7591;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.43951261"
+         d="m 34.759566,15.22118 c -0.394111,3.99677 -1.398714,7.99972 -3.080264,11.883669 -8.712217,20.13222 -32.09625944,29.390012 -52.228478,20.677797 -10.336582,-4.472799 -17.79691,-12.817174 -21.439752,-22.600453 -9.625631,4.04159 -20.813804,4.315155 -31.150386,-0.157646 -20.133766,-8.712214 -29.391556,-32.0962552 -20.679345,-52.228479 0.962874,-2.224034 2.112756,-4.305878 3.40792,-6.25326 0,0 20.274411,-37.318641 92.4403742,-43.540993 l 0.026272,-0.05719 c 0.013915,0.01703 0.026284,0.034 0.040188,0.05101 0.021638,-0.0016 0.043277,-0.0047 0.064915,-0.0061 l -0.02474,0.05873 C 37.674453,-31.905537 36.700762,2.7563206 34.759562,15.22111"
+         style="opacity:1;fill:#ff7591;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.54554117"
          id="path22"
          inkscape:connector-curvature="0" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:32.4407959px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#2d2d2d;fill-opacity:1;stroke:none;stroke-width:0.81101984"
-         x="37.444664"
-         y="46.180244"
+         x="51.749866"
+         y="45.058636"
          id="text2536"
          transform="scale(1,-1)"><tspan
            sodipodi:role="line"
            id="tspan2534"
-           x="37.444664"
-           y="46.180244"
+           x="51.749866"
+           y="45.058636"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:113.54278564px;font-family:'Friendly Schoolmates';-inkscape-font-specification:'Friendly Schoolmates';fill:#2d2d2d;fill-opacity:1;stroke-width:0.81101984">Sophire</tspan></text>
     </g>
   </g>
